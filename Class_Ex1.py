@@ -8,12 +8,13 @@ class demoClass:
         print(a+b)
 
 
+
 # print(demoClass.__doc__)
 # print(help(demoClass))
 # print(demoClass.__dict__)
 
 d = demoClass()  # d is my object
-d.sum()
+print(d.sum())
 
 d1 = demoClass()
 d1.sum()
