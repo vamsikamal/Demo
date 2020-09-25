@@ -30,6 +30,8 @@ login_box.click()
 #driver.quit()
 #print("Finished")
 #comment_box = driver.find_element_by_class_name('_1mf _1mj')
+
+'''
 comment_box = driver.find_element_by_id('placeholder-c8bdr')
 
 
@@ -42,3 +44,6 @@ for i in range(3):
     comment_box.send_keys(comments[i%7])
     pyautogui.typewrite('\n')
     sleep(2)
+
+
+'''
