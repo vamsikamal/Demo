@@ -1,8 +1,8 @@
-import pyautogui
+#import pyautogui
 from selenium import webdriver
 from time import sleep
 from webdriver_manager.chrome import ChromeDriverManager
-from selenium.webdriver.chrome.options import Options
+#from selenium.webdriver.chrome.options import Options
 
 usr= input('Enter Email Id:')
 pwd= input('Enter Password:')
