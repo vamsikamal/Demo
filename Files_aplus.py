@@ -1,0 +1,5 @@
+f = open('demo.txt','a+')
+print(f.tell())
+data = f.read()
+print(data)
+f.close()
