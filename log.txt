@@ -1,0 +1,18 @@
+WARNING:root:a Warning message
+ERROR:root:DB Connection error
+CRITICAL:root:Value error
+DEBUG:root:Debug info
+INFO:root:Basic info
+WARNING:root:a Warning message
+ERROR:root:DB Connection error
+CRITICAL:root:Value error
+DEBUG:root:Debug info
+INFO:root:Basic info
+WARNING:root:a Warning message
+ERROR:root:DB Connection error
+CRITICAL:root:Value error
+2020-10-15 07:21:36,058:DEBUG:Debug info
+2020-10-15 07:21:36,059:INFO:Basic info
+2020-10-15 07:21:36,060:WARNING:a Warning message
+2020-10-15 07:21:36,060:ERROR:DB Connection error
+2020-10-15 07:21:36,060:CRITICAL:Value error
